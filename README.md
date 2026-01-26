@@ -1,26 +1,29 @@
 ## 🚀 SaaSGenAI – AI-Powered SaaS Platform
 
-SaaSGenAI is a modern AI-powered Software-as-a-Service platform designed to boost productivity and creativity.  
-It provides multiple AI-driven tools under one platform, making it easy for users to generate high-quality content in seconds.
+SaaSGenAI is a modern AI-powered Software-as-a-Service platform designed to streamline content creation and intelligent image processing.  
+It combines multiple AI tools into one unified, secure, and scalable platform.
 
 ### ✨ Features
 - 📝 AI Article & Blog Title Generator  
-- 🖼️ AI Image Generator with multiple styles  
-- 📄 AI Resume Review & ATS Scoring  
-- 🔐 Secure Authentication & User Management  
-- 💎 Free & Premium Subscription Plans  
-- ⚡ Fast, scalable, and user-friendly UI  
+- 🖼️ AI Image Generation using ClipDrop API  
+- 🎨 Background & Object Removal using Cloudinary AI  
+- ☁️ Cloud-based Image Storage with Cloudinary  
+- 📄 AI Resume Review with ATS Scoring  
+- 🔐 Secure Authentication using Clerk  
+- 💎 Free & Premium Subscription Access  
+- ⚡ Fast, responsive, and user-friendly UI  
 
 ### 🛠 Tech Stack
-- Frontend: React.js, Tailwind CSS  
-- Backend: Node.js, Express.js  
-- Database: MongoDB  
-- Authentication: Clerk  
-- AI Integration: Gemini / OpenAI APIs  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** PostgreSQL  
+- **Authentication:** Clerk  
+- **Image Storage & AI Processing:** Cloudinary  
+- **Image Generation:** ClipDrop API  
 
-### 🎯 Goal
-To simplify content creation and productivity using AI, all in one powerful SaaS platform.
+### 🎯 Purpose
+To simplify AI-powered productivity by delivering powerful content and image tools through a scalable SaaS platform.
 
 ---
 
-Feel free to ⭐ the repository if you find it useful!
+⭐ If you find this project useful, don’t forget to star the repository!
